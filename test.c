@@ -1,5 +1,6 @@
 /*
-   Michael,
+added comment here
+Michael,
 
    Thanks for taking the time to sit in on our info session.  I hope it gave you a good understand of what Futurex does and how everything fits together.  I’ve attached the code sample mentioned during the webinar.  Please review the code and provide your input on the following questions: 
 
